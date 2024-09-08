@@ -4,11 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManoharSingh1311&label=Profile%20views&color=0e75b6&style=flat" alt="ManoharSingh1311" /> </p>
 
-- 🔭 I’m currently working on **Deep learning**
-
-- 🌱 I’m currently learning **Machine learning**
+<ul>
+  <li>🔭 I’m currently working on <strong>Developing a new web applications</strong></li>
+  <li>🌱 I’m currently learning <strong>Advanced algorithms and data structures</strong></li>
+</ul>
 
 - 👨‍💻 All of my projects are available at [https://ManoharSingh1311.github.io/Manohar-Portfolio/](https://ManoharSingh1311.github.io/Manohar-Portfolio/)
+
+-   <p>🔗 Check out my Linktree: <a href="https://linktr.ee/Manohar_Singh" target="_blank">https://linktr.ee/Manohar_Singh</a></p>
+
 
 - 📫 How to reach me **burathimannu@gmail.com**
 
