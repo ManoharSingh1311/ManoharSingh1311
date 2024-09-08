@@ -9,7 +9,7 @@
   <li>🌱 I’m currently learning <strong>Advanced algorithms and data structures</strong></li>
 </ul>
 
-- 👨‍💻 All of my projects are available at [https://ManoharSingh1311.github.io/Manohar-Portfolio/](https://ManoharSingh1311.github.io/Manohar-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://manoharsingh1311.github.io/Manohar-Portfolio/](https://manoharsingh1311.github.io/Manohar-Portfolio/)
 
 -   <p>🔗 Check out my Linktree: <a href="https://linktr.ee/Manohar_Singh" target="_blank">https://linktr.ee/Manohar_Singh</a></p>
 
