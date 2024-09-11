@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManoharSingh1311&label=Profile%20views&color=0e75b6&style=flat" alt="ManoharSingh1311" /> </p>
 
 <ul>
-  <li>🔭 I’m currently working on <strong>Developing a new web applications</strong></li>
+  <li>🔭 I’m currently working on <strong>Developing new web applications</strong></li>
   <li>🌱 I’m currently learning <strong>Advanced algorithms and data structures</strong></li>
 </ul>
 
