@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" width="400" alt="gif" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://drive.google.com/file/d/10LHCV-lqCn5hi9kynKMi18U4BSWaBBso/view?usp=sharing" alt="ManoharSingh1311" /> </p>
+<p align="left"> <img src="https://drive.google.com/file/d/10LHCV-lqCn5hi9kynKMi18U4BSWaBBso/view?usp=drive_link" alt="ManoharSingh1311" /> </p>
 
 <ul>
   <li>🔭 I’m currently working on <strong>Developing new web applications</strong></li>
