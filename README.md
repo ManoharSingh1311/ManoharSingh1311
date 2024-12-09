@@ -58,7 +58,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <p><img src="https://drive.google.com/uc?id=10LHCV-lqCn5hi9kynKMi18U4BSWaBBso" alt="Manohar Singh Logo" width="100" /></p>
-</div>
