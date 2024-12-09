@@ -2,9 +2,8 @@
 <h3 align="center">A Passionate Software Developer from India</h3>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="400" />
+  <p><img src="https://drive.google.com/uc?id=10LHCV-lqCn5hi9kynKMi18U4BSWaBBso" alt="Manohar Singh Logo" width="200" /></p>
 </div>
-
 ---
 
 ### 🚀 About Me:
@@ -59,6 +58,3 @@
 
 ---
 
-<div align="center">
-  <p><img src="https://drive.google.com/uc?id=10LHCV-lqCn5hi9kynKMi18U4BSWaBBso" alt="Manohar Singh Logo" width="100" /></p>
-</div>
