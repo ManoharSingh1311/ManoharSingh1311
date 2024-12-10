@@ -47,4 +47,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManoharSingh1311&show_icons=true&locale=en" alt="ManoharSingh1311" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManoharSingh1311&" alt="ManoharSingh1311" /></p>
